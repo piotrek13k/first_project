@@ -1,5 +1,2 @@
-testowa zawartość
-
-
 Wieloryby
 psikus
